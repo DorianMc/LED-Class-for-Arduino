@@ -1,3 +1,8 @@
+/*
+An Led class created by Dorian McIntire
+dorianmc@gmail.com
+*/
+
 #ifndef Led_h
 #define Led_h
 
