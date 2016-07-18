@@ -1,3 +1,16 @@
+/*
+Test program for Led class with on, off, status and blink methods
+Copyright (c) 2016 Dorian McIntire
+dorianmc@gmail.com
+
+Methods are:
+Led1.off()
+Led1.on()
+Led1.status()
+Led1.blink(delay)
+where delay is in milliseconds
+*/
+
 #include <Led.h>
 
 Led Led1 = Led(3);
