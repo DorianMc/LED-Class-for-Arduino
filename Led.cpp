@@ -1,5 +1,6 @@
 /*
-An Led class created by Dorian McIntire
+An Led class with on, off, status and blink methods
+Copyright (c) 2016 Dorian McIntire
 dorianmc@gmail.com
 */
 
