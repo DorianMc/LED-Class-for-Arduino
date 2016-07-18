@@ -1,3 +1,8 @@
+/*
+An Led class created by Dorian McIntire
+dorianmc@gmail.com
+*/
+
 #include "Arduino.h"
 #include "Led.h"
 
